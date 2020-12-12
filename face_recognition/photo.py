@@ -5,7 +5,7 @@ haar_file='haarcascade_face.xml'
 ##path=os.path.join(dst,sub)
 ##if os.path.isdir(path):
 ##    os.mkdir(path)
-path='E:\\dhruvitraining\\face_recognition\\'
+path='C:\\Users\\dhruvi\\Desktop\\face_recognition\\'
 
 (width,height)=(130,20)
 face=cv2.CascadeClassifier(haar_file)
